@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+pyodbc
+python-dotenv
+Flask-JWT-Extended
+Flask-Cors
+pytest
